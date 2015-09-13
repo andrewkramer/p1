@@ -1,1 +1,15 @@
 /* Custom CSS to override Bootstrap's default styling */
+
+body {
+	background-color: #111;
+}
+
+header {
+	margin-top: 15px;
+	border-radius: 15px;
+	background-color: #FFE066;
+}
+
+.headerText {
+	text-align: center;
+}
