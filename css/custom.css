@@ -10,6 +10,26 @@ header {
 	background-color: #FFE066;
 }
 
+a {
+	font-size: small;
+}
+
+footer {
+	margin-top: 15px;
+	padding: 10px;
+	border-radius: 15px;
+	background-color: #333;
+	text-align: center;
+	color: #000;
+}
+
 .headerText {
 	text-align: center;
+}
+
+.pageBody {
+	margin-top: 15px;
+	border-radius: 15px;
+	background-color: #900;
+	color: #DDD
 }
